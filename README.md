@@ -13,6 +13,6 @@ Owner of [delta-omega](https://dsc.gg/delta-omega)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Delta-0mega&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+ <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
